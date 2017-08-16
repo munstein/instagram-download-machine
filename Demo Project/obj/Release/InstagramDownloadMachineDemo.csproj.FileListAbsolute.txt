@@ -1,0 +1,7 @@
+C:\Users\eduar\Documents\Visual Studio 2015\Projects\InstagramDownloadMachineDemo\InstagramDownloadMachineDemo\bin\Release\InstagramDownloadMachineDemo.exe.config
+C:\Users\eduar\Documents\Visual Studio 2015\Projects\InstagramDownloadMachineDemo\InstagramDownloadMachineDemo\bin\Release\InstagramDownloadMachineDemo.exe
+C:\Users\eduar\Documents\Visual Studio 2015\Projects\InstagramDownloadMachineDemo\InstagramDownloadMachineDemo\bin\Release\InstagramDownloadMachineDemo.pdb
+C:\Users\eduar\Documents\Visual Studio 2015\Projects\InstagramDownloadMachineDemo\InstagramDownloadMachineDemo\bin\Release\InstagramDownloadMachine.dll
+C:\Users\eduar\Documents\Visual Studio 2015\Projects\InstagramDownloadMachineDemo\InstagramDownloadMachineDemo\obj\Release\InstagramDownloadMachineDemo.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Documents\Visual Studio 2015\Projects\InstagramDownloadMachineDemo\InstagramDownloadMachineDemo\obj\Release\InstagramDownloadMachineDemo.exe
+C:\Users\eduar\Documents\Visual Studio 2015\Projects\InstagramDownloadMachineDemo\InstagramDownloadMachineDemo\obj\Release\InstagramDownloadMachineDemo.pdb

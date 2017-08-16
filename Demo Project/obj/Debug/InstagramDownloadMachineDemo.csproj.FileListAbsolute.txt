@@ -1,0 +1,16 @@
+c:\users\eduar\documents\visual studio 2015\Projects\InstagramDownloadMachineDemo\InstagramDownloadMachineDemo\bin\Debug\InstagramDownloadMachineDemo.exe.config
+c:\users\eduar\documents\visual studio 2015\Projects\InstagramDownloadMachineDemo\InstagramDownloadMachineDemo\obj\Debug\InstagramDownloadMachineDemo.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Documents\Visual Studio 2015\Projects\InstagramDownloadMachineDemo\InstagramDownloadMachineDemo\bin\Debug\InstagramDownloadMachineDemo.exe
+C:\Users\eduar\Documents\Visual Studio 2015\Projects\InstagramDownloadMachineDemo\InstagramDownloadMachineDemo\bin\Debug\InstagramDownloadMachineDemo.pdb
+C:\Users\eduar\Documents\Visual Studio 2015\Projects\InstagramDownloadMachineDemo\InstagramDownloadMachineDemo\bin\Debug\InstagramDownloadMachine.dll
+C:\Users\eduar\Documents\Visual Studio 2015\Projects\InstagramDownloadMachineDemo\InstagramDownloadMachineDemo\obj\Debug\InstagramDownloadMachineDemo.exe
+C:\Users\eduar\Documents\Visual Studio 2015\Projects\InstagramDownloadMachineDemo\InstagramDownloadMachineDemo\obj\Debug\InstagramDownloadMachineDemo.pdb
+C:\Users\eduar\Documents\GitHub\InstagramDownloadMachine\InstagramDownloadMachineDemo\bin\Debug\InstagramDownloadMachineDemo.exe.config
+C:\Users\eduar\Documents\GitHub\InstagramDownloadMachine\InstagramDownloadMachineDemo\obj\Debug\InstagramDownloadMachineDemo.exe
+C:\Users\eduar\Documents\GitHub\InstagramDownloadMachine\InstagramDownloadMachineDemo\obj\Debug\InstagramDownloadMachineDemo.pdb
+C:\Users\eduar\Documents\GitHub\InstagramDownloadMachine\InstagramDownloadMachineDemo\bin\Debug\InstagramDownloadMachineDemo.exe
+C:\Users\eduar\Documents\GitHub\InstagramDownloadMachine\InstagramDownloadMachineDemo\bin\Debug\InstagramDownloadMachineDemo.pdb
+C:\Users\eduar\Documents\GitHub\InstagramDownloadMachine\InstagramDownloadMachineDemo\obj\Debug\InstagramDownloadMachineDemo.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Documents\GitHub\InstagramDownloadMachine\Demo Project\bin\Debug\InstagramDownloadMachineDemo.exe.config
+C:\Users\eduar\Documents\GitHub\InstagramDownloadMachine\Demo Project\obj\Debug\InstagramDownloadMachineDemo.exe
+C:\Users\eduar\Documents\GitHub\InstagramDownloadMachine\Demo Project\obj\Debug\InstagramDownloadMachineDemo.pdb
